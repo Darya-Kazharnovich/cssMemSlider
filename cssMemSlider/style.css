@@ -134,4 +134,7 @@ body {
         flex-direction: column-reverse;
         align-items: center;
     }
+    .mem-text {
+    text-align: start;
+}
 }
