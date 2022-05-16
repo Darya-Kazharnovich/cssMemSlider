@@ -125,6 +125,9 @@ body {
     display: flex;
     width: 70vw;
 }
+.label:active {
+    background-color: black;
+}
 @media (max-width: 768px) {
     .wrapper-tl {
         display: flex;
